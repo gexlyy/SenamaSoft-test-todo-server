@@ -1,3 +1,3 @@
-npm start
+to start the server type - npm start
 
-http://localhost:5000/api/todos
+server runs in http://localhost:5000   
